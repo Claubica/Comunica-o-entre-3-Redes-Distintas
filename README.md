@@ -1,7 +1,7 @@
 # 🌐 Comunicação entre 3 Redes Distintas no Cisco Packet Tracer
 
 ## 📝 Descrição do Projeto
-Este repositório contém a documentação completa de um laboratório prático de Redes de Computadores baseado no roteiro oficial da **Mulher Digital**. O objetivo principal do projeto foi construir, cabear, endereçar e validar a conectividade e o roteamento entre três segmentos de redes locais corporativas distintas (Redes de Classes A, B e C) utilizando o simulador **Cisco Packet Tracer**.
+Este repositório contém a documentação completa de um laboratório prático de Redes de Computadores. O objetivo principal do projeto foi construir, cabear, endereçar e validar a conectividade e o roteamento entre três segmentos de redes locais corporativas distintas (Redes de Classes A, B e C) utilizando o simulador **Cisco Packet Tracer**.
 
 ---
 
